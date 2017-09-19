@@ -28,8 +28,8 @@ $.getJSON(chrome.extension.getURL("acronyms.json"), function(json) {
 			values[key] = expanded;
 		});
 
-	$('span.message_body').each(function(i) {
-		var html = $(this).html();
+	$('span.message_body').not('.deacronymized').each(function(i) {
+		var html = $(this).addClass('deacronymized').html();
 
 		$.each(values, function(key, value) {
 			html = html.replace(key, "<span title='" + key + "'><i><b>" + value + "</b></i></span>");
