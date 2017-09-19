@@ -13,6 +13,7 @@ EOT,"end of term",,
 EPA,"Environmental Protection Agency",,
 FOIA,"Freedom of Information Act",,
 GDD,GeoDeepDive,,
+GSoC,Google Summer of Code,,
 Heritrix,,"IA web crawler",https://edgi-govdata-archiving.github.io/guides/internet-archive-crawler/
 IA,"Internet Archive",,
 NOAA,"National Oceanic and Atmospheric Administration",,http://www.noaa.gov/
@@ -25,6 +26,7 @@ STS,"science, technology, society",,
 SURT,"Sort-friendly URI Reordering Transform",,http://digital2.library.unt.edu/nomination/help/
 TRU,"Technoscience Research Unit",,http://technoscienceunit.org/
 UCS,"Union of concerned Scientists",,
+WM,Web Monitoring,,,
 WTT,,,
 azimuth,"Azimuth Climate Data Backup Project",,http://math.ucr.edu/home/baez/azimuth_backup_project/
 gateway,"Environmental Dataset Gateway",,

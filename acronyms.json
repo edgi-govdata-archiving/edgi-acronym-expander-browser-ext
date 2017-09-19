@@ -2,6 +2,9 @@
   "EJ": [
     "environmental justice"
   ],
+  "WM": [
+    "Web Monitoring"
+  ],
   "STS": [
     "science, technology, society"
   ],
@@ -71,6 +74,9 @@
   ],
   "Developer Central": [
     ""
+  ],
+  "GSoC": [
+    "Google Summer of Code"
   ],
   "seed": [
     ""
