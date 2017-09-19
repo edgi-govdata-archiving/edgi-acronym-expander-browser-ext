@@ -1,4 +1,4 @@
-$.getJSON(chrome.extension.getURL("spacex.json"), function(json) {
+$.getJSON(chrome.extension.getURL("acronyms.json"), function(json) {
 
 	var values = {};
 
