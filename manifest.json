@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
 
-  "name": "Reddit SpaceX Acronym Expander",
+  "name": "EDGI Acronym Expander",
   "description": "This extension expands acronyms on the SpaceX Reddit page for easier reading",
   "version": "1.0",
 
@@ -18,7 +18,7 @@
 					"128": "icon-128.png" },
 	"content_scripts" : [
 		{
-		"matches" : ["*://*.reddit.com/r/spacex/comments/*"],
+		"matches" : ["*://edgi.slack.com/messages/*"],
 		"js" : ["jquery-2.2.0.min.js", "expander.js"]
 		}
 	],

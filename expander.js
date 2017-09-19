@@ -27,8 +27,8 @@ $.getJSON(chrome.extension.getURL("spacex.json"), function(json) {
 
 			values[key] = expanded;
 		});
-	
-	$('div.usertext-body > div.md > p').each(function(i) {
+
+	$('span.message_body').each(function(i) {
 		var html = $(this).html();
 
 		$.each(values, function(key, value) {
