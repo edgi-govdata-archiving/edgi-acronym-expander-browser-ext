@@ -1,1 +1,926 @@
-{"A-Train":["[Afternoon Train satellite constellation](https:\/\/en.wikipedia.org\/wiki\/A-train_%28satellite_constellation%29)"],"A-train":["[Afternoon Train satellite constellation](https:\/\/en.wikipedia.org\/wiki\/A-train_%28satellite_constellation%29)"],"ACES":["[Advanced Cryogenic Evolved Stage](https:\/\/en.wikipedia.org\/wiki\/Advanced_Cryogenic_Evolved_Stage)","[Advanced Crew Escape Suit](https:\/\/en.wikipedia.org\/wiki\/Advanced_Crew_Escape_Suit)"],"AEB":["Agencia Espaciale Brasileira"],"AFB":["[Air Force Base](https:\/\/en.wikipedia.org\/wiki\/Military_airbase)"],"AGL":["Above Ground Level"],"AJR":["Aerojet Rocketdyne"],"AOS":["Acquisition of Signal"],"ARM":["Asteroid Redirect Mission"],"ARMD":["Aeronautics Research Mission Directorate, NASA"],"ARUM":["Asteroid Redirect Mission"],"ASAT":["[Anti-Satellite weapon](https:\/\/en.wikipedia.org\/wiki\/Anti-satellite_weapon)"],"ASDS":["Autonomous Spaceport Drone Ship (landing barge)"],"ASS":["Acronyms Seriously Suck"],"AST":["Federal Aviation Administration [Administrator for Space Transportation](http:\/\/www.faa.gov\/about\/office_org\/headquarters_offices\/ast\/)"],"ATV":["[Automated Transfer Vehicle](https:\/\/en.wikipedia.org\/wiki\/Automated_Transfer_Vehicle), ESA cargo craft"],"AVI":["Avionics Operator"],"BEAM":["[Bigelow Expandable Activity Module](https:\/\/en.wikipedia.org\/wiki\/Bigelow_Expandable_Activity_Module)"],"BECO":["Booster Engine Cut-Off"],"BEO":["Beyond Earth Orbit"],"BFR":["Big ~~Fu-~~ *Falcon* Rocket"],"BFS":["Big ~~Fu-~~ Falcon Spaceship (see MCT)"],"C3PO":["Commercial Crew and Cargo Program Office, NASA"],"CAP":["[Combat Air Patrol](https:\/\/en.wikipedia.org\/wiki\/Combat_air_patrol)"],"CBC":["Common Booster Core"],"CBM":["[Common Berthing Mechanism](https:\/\/en.wikipedia.org\/wiki\/Common_Berthing_Mechanism)"],"CCAFS":["Cape Canaveral Air Force Station"],"CCAM":["Collision and Contaminance Avoidance Maneuver"],"CCDEV":["[Commercial Crew DEVelopment](https:\/\/en.wikipedia.org\/wiki\/Commercial_Crew_Development)"],"CCiCap":["[Commercial Crew Integrated Capability](https:\/\/en.wikipedia.org\/wiki\/Commercial_Crew_Development#Commercial_Crew_integrated_Capability)"],"CCtCap":["[Commercial Crew Transportation Capability](https:\/\/en.wikipedia.org\/wiki\/Commercial_Crew_Development#Commercial_Crew_Transportation_Capability_.28CCtCap.29)"],"CDR":["Critical Design Review","(As 'Cdr') Commander"],"CME":["Coronal Mass Ejection"],"CNES":["Centre National d'Etudes Spaciales, space agency of France"],"CNSA":["Chinese National Space Administration"],"COM":["Center of Mass"],"CONUS":["[Contiguous United States](https:\/\/en.wikipedia.org\/wiki\/Contiguous_United_States)"],"COPV":["[Composite Overwrapped Pressure Vessel](https:\/\/en.wikipedia.org\/wiki\/Composite_overwrapped_pressure_vessel)"],"COSPAR":["Committee for Space Research"],"COTS":["[Commercial Orbital Transportation Services contract](https:\/\/www.nasa.gov\/cots)","Commercial\/Off The Shelf"],"CRS":["[Commercial Resupply Services contract with NASA](http:\/\/www.nasa.gov\/mission_pages\/station\/structure\/launch\/)"],"CRS2":["Commercial Resupply Services, second round contract"],"CSA":["Canadian Space Agency"],"CST":["(Boeing) Crew Space Transportation capsules","Central Standard Time (UTC-6)"],"CUCU":["COTS UHF Communications Unit (ISS-to-Dragon radio)"],"CoM":["Center of Mass"],"DCS":["Decompression Sickness"],"DCSS":["Delta Cryogenic Second Stage"],"DIVH":["Delta IV Heavy"],"DMLS":["[Direct Metal Laser Sintering](https:\/\/en.wikipedia.org\/wiki\/Direct_metal_laser_sintering) additive manufacture"],"DPL":["Downrange Propulsive Landing (on an ocean barge\/ASDS)"],"DRL":["Downrange Landing"],"DRO":["[Distant Retrograde Orbit](http:\/\/ccar.colorado.edu\/asen5050\/projects\/projects_2013\/Johnson_Kirstyn\/finalorbit.html)"],"DRRPL":["Down-Range Retro-Propulsive Landing"],"DRRRPL":["Down-Range Re-entry and Retro-Propulsive Landing"],"DRRRRPL":["Down-Range Retrograde, Re-entry, and Retro-Propulsive Landing maneuver"],"DRRRRRRPL":["Down-Range Retrograde RCS Rotation, Re-entry, and Retro-Propulsive Landing maneuver"],"DSN":["Deep Space Network"],"DTN":["Delay\/Disruption Tolerant Networking"],"DoD":["US Department of Defense"],"EBAM":["[Electron Beam Additive Manufacture](https:\/\/en.wikipedia.org\/wiki\/Electron_beam_additive_manufacturing)"],"EBM":["[Electron Beam Melting](https:\/\/en.wikipedia.org\/wiki\/Electron_beam_additive_manufacturing) additive manufacture"],"ECLSS":["Environment Control and Life Support System"],"EDL":["Entry\/Descent\/Landing"],"EDRS":["European Data Relay System"],"EELV":["[Evolved Expendable Launch Vehicle](https:\/\/en.wikipedia.org\/wiki\/Evolved_Expendable_Launch_Vehicle)"],"ELC":["EELV Launch Capability contract (\"assured access to space\")"],"EM-1":["[Exploration Mission 1](https:\/\/en.wikipedia.org\/wiki\/Exploration_Mission_1), first flight of SLS"],"EML1":["Earth-Moon Lagrange point 1"],"EMU":["Extravehicular Mobility Unit (spacesuit)"],"EOI":["Earth Orbital Insertion maneuver"],"ERV":["Earth Return Vehicle"],"ESA":["European Space Agency"],"ETLA":["Extended Three Letter Acronym (4+ letters)"],"ETO":["Earth-To-Orbit transport of materials"],"EVA":["Extra-Vehicular Activity"],"F9FT":["Falcon 9 Full Thrust *or* Upgraded Falcon 9 *or* v1.2"],"F9\\sFT":["Falcon 9 Full Thrust *or* Upgraded Falcon 9 *or* v1.2"],"FAA":["Federal Aviation Administration"],"FAA-AST":["Federal Aviation Administration [Administrator for Space Transportation](http:\/\/www.faa.gov\/about\/office_org\/headquarters_offices\/ast\/)"],"FAP":["Fairing Acoustic Protection"],"FCC":["Federal Communications Commission"],"FFSC":["Full-Flow Staged Combustion"],"FISO":["[Future In-Space Operations teleconferences](http:\/\/spirit.as.utexas.edu\/%7Efiso\/archivelist.htm)"],"FLW":["The Following (as found on NOTAMs)"],"FOD":["[Foreign Object Damage](https:\/\/en.wikipedia.org\/wiki\/Foreign_object_damage) \/ Debris"],"FONSEI":["[Findings of No Significant Environmental Impact](http:\/\/energy.gov\/nepa\/findings-no-significant-impact-fonsi)"],"FONSI":["[Findings of No Significant Environmental Impact](http:\/\/energy.gov\/nepa\/findings-no-significant-impact-fonsi)"],"FRAM":["Flight Releasable Attachment Mechanism"],"FRR":["Flight Readiness Review"],"FRSC":["Fuel-Rich Staged Combustion"],"FSS":["Fixed Service Structure at LC-39"],"FTBA":["\"Flip This ~~Bi-~~ Booster Around\" boostback burn, part of first-stage landing procedure"],"FTS":["Flight Termination System"],"GEO":["Geostationary Earth Orbit (35786km)"],"GNC":["Guidance\/Navigation\/Control"],"GSFC":["Goddard Space Flight Center, Maryland"],"GSLV":["(India's) Geostationary Launch Vehicle"],"GTO":["[Geosynchronous Transfer Orbit](http:\/\/www.planetary.org\/blogs\/jason-davis\/20140116-how-to-get-a-satellite-to-gto.html)"],"GTO-1500":["Geosynchronous Transfer Orbit (185 x 35786km, 0 inclination), requires 1500m\/s to reach GEO"],"GTO-1800":["Geosynchronous Transfer Orbit (185 x 35786km, 27-degree inclination), requires 1800m\/s to reach GEO"],"HEEO":["Highly Elliptical Earth Orbit"],"HEMO":["Highly Elliptical Mars Orbit"],"HEO":["High Earth Orbit (above 35780km)"],"HEOMD":["Human Exploration and Operations Mission Directorate, NASA"],"HIF":["Horizontal Integration Facility"],"HLLV":["Heavy Lift Launch Vehicle (20-50 tons to LEO)"],"HLV":["Heavy Lift Launch Vehicle (20-50 tons to LEO)"],"HPFTP":["High Pressure Fuel Turbopump"],"HPOTP":["High Pressure Oxidiser Turbopump"],"HPTP":["High Pressure Turbopump"],"HSF":["Human Space Flight"],"HST":["Hubble Space Telescope"],"HTS":["Horizontal Test Stand"],"ICBM":["Intercontinental Ballistic Missile"],"ICPS":["Interim Cryogenic Propulsion Stage"],"IDA":["[International Docking Adapter](https:\/\/en.wikipedia.org\/wiki\/International_Docking_Adapter)"],"IFR":["[Instrument Flight Rules](https:\/\/en.wikipedia.org\/wiki\/Instrument_flight_rules)"],"ILC":["Initial Launch Capability"],"ILS":["[International Launch Services](https:\/\/en.wikipedia.org\/wiki\/International_Launch_Services)","[Instrument Landing System](https:\/\/en.wikipedia.org\/wiki\/Instrument_landing_system)"],"IMRS":["International Mars Research Station (proposed by Blue Mars)"],"ISAP":["In-Situ Air Production"],"ISECG":["International Space Exploration Coordinating Group"],"ISEP":["In-Situ Electricity\/Energy Production"],"ISFP":["In-Situ Food Production"],"ISPP":["In-Situ Propellant Production"],"ISRO":["Indian Space Research Organisation"],"ISRU":["In-Situ Resource Utilization"],"ISWP":["In-Situ Water Production"],"ITAR":["(US) International Traffic in Arms Regulations"],"ITN":["Interplanetary Transport Network"],"IVA":["Intra-Vehicular Activity"],"IVF":["[Integrated Vehicle Fluids ^PDF](http:\/\/www.ulalaunch.com\/uploads\/docs\/Published_Papers\/Supporting_Technologies\/Space_Access_Society_2012.pdf)"],"I_sp_":["Specific impulse (as explained by [Scott Manley](https:\/\/www.youtube.com\/watch?v=nnisTeYLLgs) on YouTube)"],"Isp":["Specific impulse (as explained by [Scott Manley](https:\/\/www.youtube.com\/watch?v=nnisTeYLLgs) on YouTube)"],"JAXA":["Japan Aerospace eXploration Agency"],"JPL":["Jet Propulsion Lab, Pasadena, California"],"JRTI":["Just Read The Instructions, Pacific landing barge"],"JRtI":["Just Read The Instructions, Pacific landing barge"],"JSC":["Johnson Space Center, Houston"],"JWST":["James Webb infra-red Space Telescope"],"KARI":["Korean Aerospace Research Institute"],"KOS":["Keep Out Sphere, 200m radius from ISS","Kerbal Operating System, the KSP in-game rocket OS mod"],"KSC":["Kennedy Space Center, Florida"],"KSP":["*Kerbal Space Program*, the rocketry simulator"],"L2":["Paywalled section of the NasaSpaceFlight forum","[Lagrange Point](https:\/\/en.wikipedia.org\/wiki\/Lagrangian_point) 2"],"LAS":["Launch Abort System"],"LC-1":["Launch Complex 13, Canaveral (SpaceX Landing Zone 1)"],"LC-13":["Launch Complex 13, Canaveral (SpaceX Landing Zone 1)"],"LC-39A":["Launch Complex 39A, Kennedy (SpaceX F9\/Heavy)"],"LC1":["Launch Complex 13, Canaveral (SpaceX Landing Zone 1)"],"LC13":["Launch Complex 13, Canaveral (SpaceX Landing Zone 1)"],"LC39A":["Launch Complex 39A, Kennedy (SpaceX F9\/Heavy)"],"LC39a":["Launch Complex 39A, Kennedy (SpaceX F9\/Heavy)"],"LDSD":["Low-Density Supersonic Decelerator test vehicle"],"LEM":["(Apollo) [Lunar Excursion Module](https:\/\/en.wikipedia.org\/wiki\/Apollo_Lunar_Module) (also Lunar Module)"],"LEO":["Low Earth Orbit (180-2000km)"],"LES":["Launch Escape System"],"LH2":["Liquid Hydrogen"],"LIDAR":["[Light Detection and Ranging](https:\/\/en.wikipedia.org\/wiki\/Lidar)"],"LLO":["Low Lunar Orbit (below 100km)"],"LMO":["Low Mars Orbit"],"LMP":["(Apollo) Lunar Module Pilot"],"LN2":["Liquid Nitrogen"],"LO2":["Liquid Oxygen (more commonly LOX)"],"LOC":["Loss of Crew"],"LOM":["Loss of Mission"],"LOS":["Loss of Signal","Line of Sight"],"LOX":["Liquid Oxygen"],"LPFTP":["Low Pressure Fuel Turbopump"],"LPOTP":["Low Pressure Oxidiser Turbopump"],"LPTP":["Low Pressure Turbopump"],"LZ":["Landing Zone"],"LZ-1":["Launch Complex 13, Canaveral (SpaceX Landing Zone 1)"],"LZ1":["Launch Complex 13, Canaveral (SpaceX Landing Zone 1)"],"M1A":["Merlin 1 kerolox rocket engine, original (2006), 340kN"],"M1B":["Merlin 1 kerolox rocket engine, revision B (unflown), 360kN"],"M1C":["Merlin 1 kerolox rocket engine, revision C (2008), 556-660kN"],"M1D":["Merlin 1 kerolox rocket engine, revision D (2013), 620-690kN"],"M1DVac":["Merlin 1 kerolox rocket engine, revision D (2013), vacuum optimized, 934kN"],"M1a":["Merlin 1 kerolox rocket engine, original (2006), 340kN"],"M1b":["Merlin 1 kerolox rocket engine, revision B (unflown), 360kN"],"M1c":["Merlin 1 kerolox rocket engine, revision C (2008), 556-660kN"],"M1d":["Merlin 1 kerolox rocket engine, revision D (2013), 620-690kN"],"M1dVac":["Merlin 1 kerolox rocket engine, revision D (2013), vacuum optimized, 934kN"],"MAV":["*Mars Ascent Vehicle* (possibly fictional)"],"MCP":["Mechanical Counterpressure spacesuit"],"MCT":["Mars Colonial Transporter"],"MECO":["Main Engine Cut-Off"],"MEO":["Medium Earth Orbit (2000-35780km)"],"MER":["Mars Exploration Rover (Spirit\/Opportunity)"],"MES":["Main Engine Start"],"MLLV":["Medium Lift Launch Vehicle (2-20 tons to LEO)"],"MLV":["Medium Lift Launch Vehicle (2-20 tons to LEO)"],"MOI":["Mars Orbital Insertion maneuver"],"MRO":["Mars Reconnaisance Orbiter"],"MSL":["Mars Science Laboratory (Curiosity)"],"MT":["~~Milli-~~ *Metric* Tonnes"],"MaxQ":["Maximum aerodynamic pressure"],"MegaROSA":["Multi-element Roll-Out Solar Array"],"NAS":["National Airspace System","[Naval Air Station](https:\/\/en.wikipedia.org\/wiki\/Naval_air_station)"],"NDE":["Non-Destructive Examination"],"NDT":["Non-Destructive Testing"],"NEO":["Near-Earth Object"],"NEP":["Nuclear Electric Vehicle propulsion"],"NERVA":["Nuclear Engine for Rocket Vehicle Application (proposed engine design)"],"NET":["No Earlier Than"],"NEV":["Nuclear Electric Vehicle propulsion"],"NGLLC":["Northrop-Grumman [Lunar Lander Challenge](https:\/\/en.wikipedia.org\/wiki\/Lunar_Lander_Challenge), 2006-09"],"NOTAM":["[Notice to Airmen](https:\/\/en.wikipedia.org\/wiki\/NOTAM) of flight hazards"],"NSF":["[NasaSpaceFlight forum](http:\/\/forum.nasaspaceflight.com)","National Science Foundation"],"NTR":["Nuclear Thermal Rocket"],"NdGT":["Neil deGrasse Tyson"],"OCISLY":["Of Course I Still Love You, Atlantic landing barge"],"OG2":["Orbcomm's Generation 2 17-satellite network"],"OOA":["Orbit Once Around launch maneuver"],"ORSC":["Oxidizer-Rich Staged Combustion"],"OSM":["Operations Safety Manager"],"PICA-X":["Phenolic Impregnated-Carbon Ablative heatshield compound, as modified by SpaceX"],"PLSS":["Personal Life Support System"],"PMA":["ISS Pressurized Mating Adapter"],"PMF":["Propellant Mass Fraction"],"PTC":["Passive Thermal Control"],"PTK":["Roscosmos [Piloted Transport Ship, New Generation](https:\/\/en.wikipedia.org\/wiki\/Prospective_Piloted_Transport_System)"],"PTK-NP":["Roscosmos [Piloted Transport Ship, New Generation](https:\/\/en.wikipedia.org\/wiki\/Prospective_Piloted_Transport_System)"],"PUG":["[Payload User Guide (PDF)](http:\/\/www.spacex.com\/sites\/spacex\/files\/falcon_9_users_guide_rev_2.0.pdf)"],"RAAN":["[Right Ascension of the Ascending Node](https:\/\/en.wikipedia.org\/wiki\/Longitude_of_the_ascending_node)"],"RCO":["Range Control Officer"],"RCS":["Reaction Control System"],"RD-180":["RD-series Russian-built rocket engine, used in the Atlas V first stage"],"RIO":["[Radar Intercept Officer](https:\/\/en.wikipedia.org\/wiki\/Naval_flight_officer)"],"ROC":["Range Operations Coordinator","Radius of Curvature"],"ROSA":["Roll-Out Solar Array (designed by Deployable Space Systems)"],"RP-1":["Rocket Propellant 1 (enhanced kerosene)"],"RPY":["Roll\/Pitch\/Yaw"],"RSS":["Realscale Solar System, mod for KSP","Rotating Service Structure at LC-39"],"RTF":["Return to Flight"],"RTG":["Radioisotope Thermoelectric Generator"],"RTLS":["Return to Launch Site"],"RUD":["Rapid Unplanned Disassembly"],"SD":["SuperDraco hypergolic abort\/landing engines"],"SECO":["Second-stage Engine Cut-Off"],"SEP":["Solar Electric Propulsion"],"SES":["Formerly Soci&eacute;t&eacute; Europ&eacute;enne des Satellites, comsat builder"],"SF":["Static fire"],"SHLLV":["Super-Heavy Lift Launch Vehicle (over 50 tons to LEO)"],"SHLV":["Super-Heavy Lift Launch Vehicle (over 50 tons to LEO)"],"SLC-37":["Space Launch Complex 37, Canaveral (ULA Delta IV)"],"SLC-40":["Space Launch Complex 40, Canaveral (SpaceX F9)"],"SLC-41":["Space Launch Complex 41, Canaveral (ULA Atlas V)"],"SLC-4E":["Space Launch Complex 4-East, Vandenberg (SpaceX F9)"],"SLC-4W":["Space Launch Complex 4-West, Vandenberg (SpaceX F9, landing)"],"SLM":["[Selective Laser Melting](https:\/\/en.wikipedia.org\/wiki\/Selective_laser_melting) additive manufacture"],"SLS":["Space Launch System heavy-lift"],"SLS-1":["[Exploration Mission 1](https:\/\/en.wikipedia.org\/wiki\/Exploration_Mission_1), first flight of SLS"],"SMD":["Science Mission Directorate, NASA"],"SNC":["Sierra Nevada Corporation"],"SOMD":["Space Operations Mission Directorate, NASA"],"SPAM":["*SpaceX Proprietary Ablative Material* (backronym)"],"SRB":["Solid Rocket Booster"],"SSAU":["State Space Agency of Ukraine"],"SSME":["[Space Shuttle Main Engine](https:\/\/en.wikipedia.org\/wiki\/Space_Shuttle_main_engine)"],"SSO":["Sun-Synchronous Orbit"],"SSP":["Space-based Solar Power"],"SSRMS":["Space Station Remote Manipulator System (*Canadarm*)"],"SSTO":["Single Stage to Orbit"],"STA":["Special Temporary Authorization (issued by FCC for a comsat)"],"STP":["[Standard Temperature and Pressure](https:\/\/en.wikipedia.org\/wiki\/Standard_conditions_for_temperature_and_pressure)"],"STP-2":["[Space Test Program 2](https:\/\/en.wikipedia.org\/wiki\/Space_Test_Program#Upcoming_Activities), DoD programme, second round"],"STP2":["[Space Test Program 2](https:\/\/en.wikipedia.org\/wiki\/Space_Test_Program#Upcoming_Activities), DoD programme, second round"],"STS":["Space Transportation System (*Shuttle*)"],"T\/E":["Transporter\/Erector launch pad support equipment"],"TDRSS":["(US) Tracking and Data Relay Satellite System"],"TE":["Transporter\/Erector launch pad support equipment"],"TEA-TEB":["[Triethylaluminium](https:\/\/en.wikipedia.org\/wiki\/Triethylaluminium)-[Triethylborane](https:\/\/en.wikipedia.org\/wiki\/Triethylborane), igniter for Merlin engines; spontaneously burns, green flame"],"TEI":["Trans-Earth Injection maneuver"],"TFR":["Temporary Flight Restriction"],"TLA":["Three Letter Acronym"],"TLI":["Trans-Lunar Injection maneuver"],"TMI":["Trans-Mars Injection maneuver"],"TRL":["Technology Readiness Level"],"TSTO":["Two Stage To Orbit rocket"],"TVC":["Thrust Vector Control"],"TWR":["Thrust-to-Weight Ratio"],"UF9":["Falcon 9 Full Thrust *or* Upgraded Falcon 9 *or* v1.2"],"UHF":["Ultra-High Frequency radio"],"ULA":["United Launch Alliance (Lockheed\/Boeing joint venture)"],"USOS":["United States Orbital Segment"],"VAB":["Vehicle Assembly Building"],"VAFB":["Vandenberg Air Force Base, California"],"VBB":["Very Big Brother (Blue Origin's proposed VTVL vehicle, unknown payload to LEO)"],"VFR":["[Visual Flight Rules](https:\/\/en.wikipedia.org\/wiki\/Visual_flight_rules)"],"VHLV":["Super-Heavy Lift Launch Vehicle (over 50 tons to LEO)"],"VIB":["Vertical Integration Facility"],"VIF":["Vertical Integration Facility"],"VTOL":["Vertical Take-Off and Landing"],"VTS":["Vertical Test Stand"],"VTVL":["Vertical Takeoff, Vertical Landing"],"VV":["Visiting Vehicle (visitor to the Station)"],"WDR":["Wet Dress Rehearsal"],"WSO":["[Weapons Systems Officer](https:\/\/en.wikipedia.org\/wiki\/Weapon_systems_officer)"],"ZBP":["Zero Pre-Breathe (spacesuit and habitat at same pressure"],"ZPS":["Zero Prebreathe Spacesuit"],"mT":["~~Milli-~~ *Metric* Tonnes"]}
+{
+    "A-Train": [
+        "[Afternoon Train satellite constellation](https://en.wikipedia.org/wiki/A-train_%28satellite_constellation%29)"
+    ],
+    "A-train": [
+        "[Afternoon Train satellite constellation](https://en.wikipedia.org/wiki/A-train_%28satellite_constellation%29)"
+    ],
+    "ACES": [
+        "[Advanced Cryogenic Evolved Stage](https://en.wikipedia.org/wiki/Advanced_Cryogenic_Evolved_Stage)",
+        "[Advanced Crew Escape Suit](https://en.wikipedia.org/wiki/Advanced_Crew_Escape_Suit)"
+    ],
+    "AEB": [
+        "Agencia Espaciale Brasileira"
+    ],
+    "AFB": [
+        "[Air Force Base](https://en.wikipedia.org/wiki/Military_airbase)"
+    ],
+    "AGL": [
+        "Above Ground Level"
+    ],
+    "AJR": [
+        "Aerojet Rocketdyne"
+    ],
+    "AOS": [
+        "Acquisition of Signal"
+    ],
+    "ARM": [
+        "Asteroid Redirect Mission"
+    ],
+    "ARMD": [
+        "Aeronautics Research Mission Directorate, NASA"
+    ],
+    "ARUM": [
+        "Asteroid Redirect Mission"
+    ],
+    "ASAT": [
+        "[Anti-Satellite weapon](https://en.wikipedia.org/wiki/Anti-satellite_weapon)"
+    ],
+    "ASDS": [
+        "Autonomous Spaceport Drone Ship (landing barge)"
+    ],
+    "ASS": [
+        "Acronyms Seriously Suck"
+    ],
+    "AST": [
+        "Federal Aviation Administration [Administrator for Space Transportation](http://www.faa.gov/about/office_org/headquarters_offices/ast/)"
+    ],
+    "ATV": [
+        "[Automated Transfer Vehicle](https://en.wikipedia.org/wiki/Automated_Transfer_Vehicle), ESA cargo craft"
+    ],
+    "AVI": [
+        "Avionics Operator"
+    ],
+    "BEAM": [
+        "[Bigelow Expandable Activity Module](https://en.wikipedia.org/wiki/Bigelow_Expandable_Activity_Module)"
+    ],
+    "BECO": [
+        "Booster Engine Cut-Off"
+    ],
+    "BEO": [
+        "Beyond Earth Orbit"
+    ],
+    "BFR": [
+        "Big ~~Fu-~~ *Falcon* Rocket"
+    ],
+    "BFS": [
+        "Big ~~Fu-~~ Falcon Spaceship (see MCT)"
+    ],
+    "C3PO": [
+        "Commercial Crew and Cargo Program Office, NASA"
+    ],
+    "CAP": [
+        "[Combat Air Patrol](https://en.wikipedia.org/wiki/Combat_air_patrol)"
+    ],
+    "CBC": [
+        "Common Booster Core"
+    ],
+    "CBM": [
+        "[Common Berthing Mechanism](https://en.wikipedia.org/wiki/Common_Berthing_Mechanism)"
+    ],
+    "CCAFS": [
+        "Cape Canaveral Air Force Station"
+    ],
+    "CCAM": [
+        "Collision and Contaminance Avoidance Maneuver"
+    ],
+    "CCDEV": [
+        "[Commercial Crew DEVelopment](https://en.wikipedia.org/wiki/Commercial_Crew_Development)"
+    ],
+    "CCiCap": [
+        "[Commercial Crew Integrated Capability](https://en.wikipedia.org/wiki/Commercial_Crew_Development#Commercial_Crew_integrated_Capability)"
+    ],
+    "CCtCap": [
+        "[Commercial Crew Transportation Capability](https://en.wikipedia.org/wiki/Commercial_Crew_Development#Commercial_Crew_Transportation_Capability_.28CCtCap.29)"
+    ],
+    "CDR": [
+        "Critical Design Review",
+        "(As 'Cdr') Commander"
+    ],
+    "CME": [
+        "Coronal Mass Ejection"
+    ],
+    "CNES": [
+        "Centre National d'Etudes Spaciales, space agency of France"
+    ],
+    "CNSA": [
+        "Chinese National Space Administration"
+    ],
+    "COM": [
+        "Center of Mass"
+    ],
+    "CONUS": [
+        "[Contiguous United States](https://en.wikipedia.org/wiki/Contiguous_United_States)"
+    ],
+    "COPV": [
+        "[Composite Overwrapped Pressure Vessel](https://en.wikipedia.org/wiki/Composite_overwrapped_pressure_vessel)"
+    ],
+    "COSPAR": [
+        "Committee for Space Research"
+    ],
+    "COTS": [
+        "[Commercial Orbital Transportation Services contract](https://www.nasa.gov/cots)",
+        "Commercial/Off The Shelf"
+    ],
+    "CRS": [
+        "[Commercial Resupply Services contract with NASA](http://www.nasa.gov/mission_pages/station/structure/launch/)"
+    ],
+    "CRS2": [
+        "Commercial Resupply Services, second round contract"
+    ],
+    "CSA": [
+        "Canadian Space Agency"
+    ],
+    "CST": [
+        "(Boeing) Crew Space Transportation capsules",
+        "Central Standard Time (UTC-6)"
+    ],
+    "CUCU": [
+        "COTS UHF Communications Unit (ISS-to-Dragon radio)"
+    ],
+    "CoM": [
+        "Center of Mass"
+    ],
+    "DCS": [
+        "Decompression Sickness"
+    ],
+    "DCSS": [
+        "Delta Cryogenic Second Stage"
+    ],
+    "DIVH": [
+        "Delta IV Heavy"
+    ],
+    "DMLS": [
+        "[Direct Metal Laser Sintering](https://en.wikipedia.org/wiki/Direct_metal_laser_sintering) additive manufacture"
+    ],
+    "DPL": [
+        "Downrange Propulsive Landing (on an ocean barge/ASDS)"
+    ],
+    "DRL": [
+        "Downrange Landing"
+    ],
+    "DRO": [
+        "[Distant Retrograde Orbit](http://ccar.colorado.edu/asen5050/projects/projects_2013/Johnson_Kirstyn/finalorbit.html)"
+    ],
+    "DRRPL": [
+        "Down-Range Retro-Propulsive Landing"
+    ],
+    "DRRRPL": [
+        "Down-Range Re-entry and Retro-Propulsive Landing"
+    ],
+    "DRRRRPL": [
+        "Down-Range Retrograde, Re-entry, and Retro-Propulsive Landing maneuver"
+    ],
+    "DRRRRRRPL": [
+        "Down-Range Retrograde RCS Rotation, Re-entry, and Retro-Propulsive Landing maneuver"
+    ],
+    "DSN": [
+        "Deep Space Network"
+    ],
+    "DTN": [
+        "Delay/Disruption Tolerant Networking"
+    ],
+    "DoD": [
+        "US Department of Defense"
+    ],
+    "EBAM": [
+        "[Electron Beam Additive Manufacture](https://en.wikipedia.org/wiki/Electron_beam_additive_manufacturing)"
+    ],
+    "EBM": [
+        "[Electron Beam Melting](https://en.wikipedia.org/wiki/Electron_beam_additive_manufacturing) additive manufacture"
+    ],
+    "ECLSS": [
+        "Environment Control and Life Support System"
+    ],
+    "EDL": [
+        "Entry/Descent/Landing"
+    ],
+    "EDRS": [
+        "European Data Relay System"
+    ],
+    "EELV": [
+        "[Evolved Expendable Launch Vehicle](https://en.wikipedia.org/wiki/Evolved_Expendable_Launch_Vehicle)"
+    ],
+    "ELC": [
+        "EELV Launch Capability contract (\"assured access to space\")"
+    ],
+    "EM-1": [
+        "[Exploration Mission 1](https://en.wikipedia.org/wiki/Exploration_Mission_1), first flight of SLS"
+    ],
+    "EML1": [
+        "Earth-Moon Lagrange point 1"
+    ],
+    "EMU": [
+        "Extravehicular Mobility Unit (spacesuit)"
+    ],
+    "EOI": [
+        "Earth Orbital Insertion maneuver"
+    ],
+    "ERV": [
+        "Earth Return Vehicle"
+    ],
+    "ESA": [
+        "European Space Agency"
+    ],
+    "ETLA": [
+        "Extended Three Letter Acronym (4+ letters)"
+    ],
+    "ETO": [
+        "Earth-To-Orbit transport of materials"
+    ],
+    "EVA": [
+        "Extra-Vehicular Activity"
+    ],
+    "F9FT": [
+        "Falcon 9 Full Thrust *or* Upgraded Falcon 9 *or* v1.2"
+    ],
+    "F9\\sFT": [
+        "Falcon 9 Full Thrust *or* Upgraded Falcon 9 *or* v1.2"
+    ],
+    "FAA": [
+        "Federal Aviation Administration"
+    ],
+    "FAA-AST": [
+        "Federal Aviation Administration [Administrator for Space Transportation](http://www.faa.gov/about/office_org/headquarters_offices/ast/)"
+    ],
+    "FAP": [
+        "Fairing Acoustic Protection"
+    ],
+    "FCC": [
+        "Federal Communications Commission"
+    ],
+    "FFSC": [
+        "Full-Flow Staged Combustion"
+    ],
+    "FISO": [
+        "[Future In-Space Operations teleconferences](http://spirit.as.utexas.edu/%7Efiso/archivelist.htm)"
+    ],
+    "FLW": [
+        "The Following (as found on NOTAMs)"
+    ],
+    "FOD": [
+        "[Foreign Object Damage](https://en.wikipedia.org/wiki/Foreign_object_damage) / Debris"
+    ],
+    "FONSEI": [
+        "[Findings of No Significant Environmental Impact](http://energy.gov/nepa/findings-no-significant-impact-fonsi)"
+    ],
+    "FONSI": [
+        "[Findings of No Significant Environmental Impact](http://energy.gov/nepa/findings-no-significant-impact-fonsi)"
+    ],
+    "FRAM": [
+        "Flight Releasable Attachment Mechanism"
+    ],
+    "FRR": [
+        "Flight Readiness Review"
+    ],
+    "FRSC": [
+        "Fuel-Rich Staged Combustion"
+    ],
+    "FSS": [
+        "Fixed Service Structure at LC-39"
+    ],
+    "FTBA": [
+        "\"Flip This ~~Bi-~~ Booster Around\" boostback burn, part of first-stage landing procedure"
+    ],
+    "FTS": [
+        "Flight Termination System"
+    ],
+    "GEO": [
+        "Geostationary Earth Orbit (35786km)"
+    ],
+    "GNC": [
+        "Guidance/Navigation/Control"
+    ],
+    "GSFC": [
+        "Goddard Space Flight Center, Maryland"
+    ],
+    "GSLV": [
+        "(India's) Geostationary Launch Vehicle"
+    ],
+    "GTO": [
+        "[Geosynchronous Transfer Orbit](http://www.planetary.org/blogs/jason-davis/20140116-how-to-get-a-satellite-to-gto.html)"
+    ],
+    "GTO-1500": [
+        "Geosynchronous Transfer Orbit (185 x 35786km, 0 inclination), requires 1500m/s to reach GEO"
+    ],
+    "GTO-1800": [
+        "Geosynchronous Transfer Orbit (185 x 35786km, 27-degree inclination), requires 1800m/s to reach GEO"
+    ],
+    "HEEO": [
+        "Highly Elliptical Earth Orbit"
+    ],
+    "HEMO": [
+        "Highly Elliptical Mars Orbit"
+    ],
+    "HEO": [
+        "High Earth Orbit (above 35780km)"
+    ],
+    "HEOMD": [
+        "Human Exploration and Operations Mission Directorate, NASA"
+    ],
+    "HIF": [
+        "Horizontal Integration Facility"
+    ],
+    "HLLV": [
+        "Heavy Lift Launch Vehicle (20-50 tons to LEO)"
+    ],
+    "HLV": [
+        "Heavy Lift Launch Vehicle (20-50 tons to LEO)"
+    ],
+    "HPFTP": [
+        "High Pressure Fuel Turbopump"
+    ],
+    "HPOTP": [
+        "High Pressure Oxidiser Turbopump"
+    ],
+    "HPTP": [
+        "High Pressure Turbopump"
+    ],
+    "HSF": [
+        "Human Space Flight"
+    ],
+    "HST": [
+        "Hubble Space Telescope"
+    ],
+    "HTS": [
+        "Horizontal Test Stand"
+    ],
+    "ICBM": [
+        "Intercontinental Ballistic Missile"
+    ],
+    "ICPS": [
+        "Interim Cryogenic Propulsion Stage"
+    ],
+    "IDA": [
+        "[International Docking Adapter](https://en.wikipedia.org/wiki/International_Docking_Adapter)"
+    ],
+    "IFR": [
+        "[Instrument Flight Rules](https://en.wikipedia.org/wiki/Instrument_flight_rules)"
+    ],
+    "ILC": [
+        "Initial Launch Capability"
+    ],
+    "ILS": [
+        "[International Launch Services](https://en.wikipedia.org/wiki/International_Launch_Services)",
+        "[Instrument Landing System](https://en.wikipedia.org/wiki/Instrument_landing_system)"
+    ],
+    "IMRS": [
+        "International Mars Research Station (proposed by Blue Mars)"
+    ],
+    "ISAP": [
+        "In-Situ Air Production"
+    ],
+    "ISECG": [
+        "International Space Exploration Coordinating Group"
+    ],
+    "ISEP": [
+        "In-Situ Electricity/Energy Production"
+    ],
+    "ISFP": [
+        "In-Situ Food Production"
+    ],
+    "ISPP": [
+        "In-Situ Propellant Production"
+    ],
+    "ISRO": [
+        "Indian Space Research Organisation"
+    ],
+    "ISRU": [
+        "In-Situ Resource Utilization"
+    ],
+    "ISWP": [
+        "In-Situ Water Production"
+    ],
+    "ITAR": [
+        "(US) International Traffic in Arms Regulations"
+    ],
+    "ITN": [
+        "Interplanetary Transport Network"
+    ],
+    "IVA": [
+        "Intra-Vehicular Activity"
+    ],
+    "IVF": [
+        "[Integrated Vehicle Fluids ^PDF](http://www.ulalaunch.com/uploads/docs/Published_Papers/Supporting_Technologies/Space_Access_Society_2012.pdf)"
+    ],
+    "I_sp_": [
+        "Specific impulse (as explained by [Scott Manley](https://www.youtube.com/watch?v=nnisTeYLLgs) on YouTube)"
+    ],
+    "Isp": [
+        "Specific impulse (as explained by [Scott Manley](https://www.youtube.com/watch?v=nnisTeYLLgs) on YouTube)"
+    ],
+    "JAXA": [
+        "Japan Aerospace eXploration Agency"
+    ],
+    "JPL": [
+        "Jet Propulsion Lab, Pasadena, California"
+    ],
+    "JRTI": [
+        "Just Read The Instructions, Pacific landing barge"
+    ],
+    "JRtI": [
+        "Just Read The Instructions, Pacific landing barge"
+    ],
+    "JSC": [
+        "Johnson Space Center, Houston"
+    ],
+    "JWST": [
+        "James Webb infra-red Space Telescope"
+    ],
+    "KARI": [
+        "Korean Aerospace Research Institute"
+    ],
+    "KOS": [
+        "Keep Out Sphere, 200m radius from ISS",
+        "Kerbal Operating System, the KSP in-game rocket OS mod"
+    ],
+    "KSC": [
+        "Kennedy Space Center, Florida"
+    ],
+    "KSP": [
+        "*Kerbal Space Program*, the rocketry simulator"
+    ],
+    "L2": [
+        "Paywalled section of the NasaSpaceFlight forum",
+        "[Lagrange Point](https://en.wikipedia.org/wiki/Lagrangian_point) 2"
+    ],
+    "LAS": [
+        "Launch Abort System"
+    ],
+    "LC-1": [
+        "Launch Complex 13, Canaveral (SpaceX Landing Zone 1)"
+    ],
+    "LC-13": [
+        "Launch Complex 13, Canaveral (SpaceX Landing Zone 1)"
+    ],
+    "LC-39A": [
+        "Launch Complex 39A, Kennedy (SpaceX F9/Heavy)"
+    ],
+    "LC1": [
+        "Launch Complex 13, Canaveral (SpaceX Landing Zone 1)"
+    ],
+    "LC13": [
+        "Launch Complex 13, Canaveral (SpaceX Landing Zone 1)"
+    ],
+    "LC39A": [
+        "Launch Complex 39A, Kennedy (SpaceX F9/Heavy)"
+    ],
+    "LC39a": [
+        "Launch Complex 39A, Kennedy (SpaceX F9/Heavy)"
+    ],
+    "LDSD": [
+        "Low-Density Supersonic Decelerator test vehicle"
+    ],
+    "LEM": [
+        "(Apollo) [Lunar Excursion Module](https://en.wikipedia.org/wiki/Apollo_Lunar_Module) (also Lunar Module)"
+    ],
+    "LEO": [
+        "Low Earth Orbit (180-2000km)"
+    ],
+    "LES": [
+        "Launch Escape System"
+    ],
+    "LH2": [
+        "Liquid Hydrogen"
+    ],
+    "LIDAR": [
+        "[Light Detection and Ranging](https://en.wikipedia.org/wiki/Lidar)"
+    ],
+    "LLO": [
+        "Low Lunar Orbit (below 100km)"
+    ],
+    "LMO": [
+        "Low Mars Orbit"
+    ],
+    "LMP": [
+        "(Apollo) Lunar Module Pilot"
+    ],
+    "LN2": [
+        "Liquid Nitrogen"
+    ],
+    "LO2": [
+        "Liquid Oxygen (more commonly LOX)"
+    ],
+    "LOC": [
+        "Loss of Crew"
+    ],
+    "LOM": [
+        "Loss of Mission"
+    ],
+    "LOS": [
+        "Loss of Signal",
+        "Line of Sight"
+    ],
+    "LOX": [
+        "Liquid Oxygen"
+    ],
+    "LPFTP": [
+        "Low Pressure Fuel Turbopump"
+    ],
+    "LPOTP": [
+        "Low Pressure Oxidiser Turbopump"
+    ],
+    "LPTP": [
+        "Low Pressure Turbopump"
+    ],
+    "LZ": [
+        "Landing Zone"
+    ],
+    "LZ-1": [
+        "Launch Complex 13, Canaveral (SpaceX Landing Zone 1)"
+    ],
+    "LZ1": [
+        "Launch Complex 13, Canaveral (SpaceX Landing Zone 1)"
+    ],
+    "M1A": [
+        "Merlin 1 kerolox rocket engine, original (2006), 340kN"
+    ],
+    "M1B": [
+        "Merlin 1 kerolox rocket engine, revision B (unflown), 360kN"
+    ],
+    "M1C": [
+        "Merlin 1 kerolox rocket engine, revision C (2008), 556-660kN"
+    ],
+    "M1D": [
+        "Merlin 1 kerolox rocket engine, revision D (2013), 620-690kN"
+    ],
+    "M1DVac": [
+        "Merlin 1 kerolox rocket engine, revision D (2013), vacuum optimized, 934kN"
+    ],
+    "M1a": [
+        "Merlin 1 kerolox rocket engine, original (2006), 340kN"
+    ],
+    "M1b": [
+        "Merlin 1 kerolox rocket engine, revision B (unflown), 360kN"
+    ],
+    "M1c": [
+        "Merlin 1 kerolox rocket engine, revision C (2008), 556-660kN"
+    ],
+    "M1d": [
+        "Merlin 1 kerolox rocket engine, revision D (2013), 620-690kN"
+    ],
+    "M1dVac": [
+        "Merlin 1 kerolox rocket engine, revision D (2013), vacuum optimized, 934kN"
+    ],
+    "MAV": [
+        "*Mars Ascent Vehicle* (possibly fictional)"
+    ],
+    "MCP": [
+        "Mechanical Counterpressure spacesuit"
+    ],
+    "MCT": [
+        "Mars Colonial Transporter"
+    ],
+    "MECO": [
+        "Main Engine Cut-Off"
+    ],
+    "MEO": [
+        "Medium Earth Orbit (2000-35780km)"
+    ],
+    "MER": [
+        "Mars Exploration Rover (Spirit/Opportunity)"
+    ],
+    "MES": [
+        "Main Engine Start"
+    ],
+    "MLLV": [
+        "Medium Lift Launch Vehicle (2-20 tons to LEO)"
+    ],
+    "MLV": [
+        "Medium Lift Launch Vehicle (2-20 tons to LEO)"
+    ],
+    "MOI": [
+        "Mars Orbital Insertion maneuver"
+    ],
+    "MRO": [
+        "Mars Reconnaisance Orbiter"
+    ],
+    "MSL": [
+        "Mars Science Laboratory (Curiosity)"
+    ],
+    "MT": [
+        "~~Milli-~~ *Metric* Tonnes"
+    ],
+    "MaxQ": [
+        "Maximum aerodynamic pressure"
+    ],
+    "MegaROSA": [
+        "Multi-element Roll-Out Solar Array"
+    ],
+    "NAS": [
+        "National Airspace System",
+        "[Naval Air Station](https://en.wikipedia.org/wiki/Naval_air_station)"
+    ],
+    "NDE": [
+        "Non-Destructive Examination"
+    ],
+    "NDT": [
+        "Non-Destructive Testing"
+    ],
+    "NEO": [
+        "Near-Earth Object"
+    ],
+    "NEP": [
+        "Nuclear Electric Vehicle propulsion"
+    ],
+    "NERVA": [
+        "Nuclear Engine for Rocket Vehicle Application (proposed engine design)"
+    ],
+    "NET": [
+        "No Earlier Than"
+    ],
+    "NEV": [
+        "Nuclear Electric Vehicle propulsion"
+    ],
+    "NGLLC": [
+        "Northrop-Grumman [Lunar Lander Challenge](https://en.wikipedia.org/wiki/Lunar_Lander_Challenge), 2006-09"
+    ],
+    "NOTAM": [
+        "[Notice to Airmen](https://en.wikipedia.org/wiki/NOTAM) of flight hazards"
+    ],
+    "NSF": [
+        "[NasaSpaceFlight forum](http://forum.nasaspaceflight.com)",
+        "National Science Foundation"
+    ],
+    "NTR": [
+        "Nuclear Thermal Rocket"
+    ],
+    "NdGT": [
+        "Neil deGrasse Tyson"
+    ],
+    "OCISLY": [
+        "Of Course I Still Love You, Atlantic landing barge"
+    ],
+    "OG2": [
+        "Orbcomm's Generation 2 17-satellite network"
+    ],
+    "OOA": [
+        "Orbit Once Around launch maneuver"
+    ],
+    "ORSC": [
+        "Oxidizer-Rich Staged Combustion"
+    ],
+    "OSM": [
+        "Operations Safety Manager"
+    ],
+    "PICA-X": [
+        "Phenolic Impregnated-Carbon Ablative heatshield compound, as modified by SpaceX"
+    ],
+    "PLSS": [
+        "Personal Life Support System"
+    ],
+    "PMA": [
+        "ISS Pressurized Mating Adapter"
+    ],
+    "PMF": [
+        "Propellant Mass Fraction"
+    ],
+    "PTC": [
+        "Passive Thermal Control"
+    ],
+    "PTK": [
+        "Roscosmos [Piloted Transport Ship, New Generation](https://en.wikipedia.org/wiki/Prospective_Piloted_Transport_System)"
+    ],
+    "PTK-NP": [
+        "Roscosmos [Piloted Transport Ship, New Generation](https://en.wikipedia.org/wiki/Prospective_Piloted_Transport_System)"
+    ],
+    "PUG": [
+        "[Payload User Guide (PDF)](http://www.spacex.com/sites/spacex/files/falcon_9_users_guide_rev_2.0.pdf)"
+    ],
+    "RAAN": [
+        "[Right Ascension of the Ascending Node](https://en.wikipedia.org/wiki/Longitude_of_the_ascending_node)"
+    ],
+    "RCO": [
+        "Range Control Officer"
+    ],
+    "RCS": [
+        "Reaction Control System"
+    ],
+    "RD-180": [
+        "RD-series Russian-built rocket engine, used in the Atlas V first stage"
+    ],
+    "RIO": [
+        "[Radar Intercept Officer](https://en.wikipedia.org/wiki/Naval_flight_officer)"
+    ],
+    "ROC": [
+        "Range Operations Coordinator",
+        "Radius of Curvature"
+    ],
+    "ROSA": [
+        "Roll-Out Solar Array (designed by Deployable Space Systems)"
+    ],
+    "RP-1": [
+        "Rocket Propellant 1 (enhanced kerosene)"
+    ],
+    "RPY": [
+        "Roll/Pitch/Yaw"
+    ],
+    "RSS": [
+        "Realscale Solar System, mod for KSP",
+        "Rotating Service Structure at LC-39"
+    ],
+    "RTF": [
+        "Return to Flight"
+    ],
+    "RTG": [
+        "Radioisotope Thermoelectric Generator"
+    ],
+    "RTLS": [
+        "Return to Launch Site"
+    ],
+    "RUD": [
+        "Rapid Unplanned Disassembly"
+    ],
+    "SD": [
+        "SuperDraco hypergolic abort/landing engines"
+    ],
+    "SECO": [
+        "Second-stage Engine Cut-Off"
+    ],
+    "SEP": [
+        "Solar Electric Propulsion"
+    ],
+    "SES": [
+        "Formerly Soci&eacute;t&eacute; Europ&eacute;enne des Satellites, comsat builder"
+    ],
+    "SF": [
+        "Static fire"
+    ],
+    "SHLLV": [
+        "Super-Heavy Lift Launch Vehicle (over 50 tons to LEO)"
+    ],
+    "SHLV": [
+        "Super-Heavy Lift Launch Vehicle (over 50 tons to LEO)"
+    ],
+    "SLC-37": [
+        "Space Launch Complex 37, Canaveral (ULA Delta IV)"
+    ],
+    "SLC-40": [
+        "Space Launch Complex 40, Canaveral (SpaceX F9)"
+    ],
+    "SLC-41": [
+        "Space Launch Complex 41, Canaveral (ULA Atlas V)"
+    ],
+    "SLC-4E": [
+        "Space Launch Complex 4-East, Vandenberg (SpaceX F9)"
+    ],
+    "SLC-4W": [
+        "Space Launch Complex 4-West, Vandenberg (SpaceX F9, landing)"
+    ],
+    "SLM": [
+        "[Selective Laser Melting](https://en.wikipedia.org/wiki/Selective_laser_melting) additive manufacture"
+    ],
+    "SLS": [
+        "Space Launch System heavy-lift"
+    ],
+    "SLS-1": [
+        "[Exploration Mission 1](https://en.wikipedia.org/wiki/Exploration_Mission_1), first flight of SLS"
+    ],
+    "SMD": [
+        "Science Mission Directorate, NASA"
+    ],
+    "SNC": [
+        "Sierra Nevada Corporation"
+    ],
+    "SOMD": [
+        "Space Operations Mission Directorate, NASA"
+    ],
+    "SPAM": [
+        "*SpaceX Proprietary Ablative Material* (backronym)"
+    ],
+    "SRB": [
+        "Solid Rocket Booster"
+    ],
+    "SSAU": [
+        "State Space Agency of Ukraine"
+    ],
+    "SSME": [
+        "[Space Shuttle Main Engine](https://en.wikipedia.org/wiki/Space_Shuttle_main_engine)"
+    ],
+    "SSO": [
+        "Sun-Synchronous Orbit"
+    ],
+    "SSP": [
+        "Space-based Solar Power"
+    ],
+    "SSRMS": [
+        "Space Station Remote Manipulator System (*Canadarm*)"
+    ],
+    "SSTO": [
+        "Single Stage to Orbit"
+    ],
+    "STA": [
+        "Special Temporary Authorization (issued by FCC for a comsat)"
+    ],
+    "STP": [
+        "[Standard Temperature and Pressure](https://en.wikipedia.org/wiki/Standard_conditions_for_temperature_and_pressure)"
+    ],
+    "STP-2": [
+        "[Space Test Program 2](https://en.wikipedia.org/wiki/Space_Test_Program#Upcoming_Activities), DoD programme, second round"
+    ],
+    "STP2": [
+        "[Space Test Program 2](https://en.wikipedia.org/wiki/Space_Test_Program#Upcoming_Activities), DoD programme, second round"
+    ],
+    "STS": [
+        "Space Transportation System (*Shuttle*)"
+    ],
+    "T/E": [
+        "Transporter/Erector launch pad support equipment"
+    ],
+    "TDRSS": [
+        "(US) Tracking and Data Relay Satellite System"
+    ],
+    "TE": [
+        "Transporter/Erector launch pad support equipment"
+    ],
+    "TEA-TEB": [
+        "[Triethylaluminium](https://en.wikipedia.org/wiki/Triethylaluminium)-[Triethylborane](https://en.wikipedia.org/wiki/Triethylborane), igniter for Merlin engines; spontaneously burns, green flame"
+    ],
+    "TEI": [
+        "Trans-Earth Injection maneuver"
+    ],
+    "TFR": [
+        "Temporary Flight Restriction"
+    ],
+    "TLA": [
+        "Three Letter Acronym"
+    ],
+    "TLI": [
+        "Trans-Lunar Injection maneuver"
+    ],
+    "TMI": [
+        "Trans-Mars Injection maneuver"
+    ],
+    "TRL": [
+        "Technology Readiness Level"
+    ],
+    "TSTO": [
+        "Two Stage To Orbit rocket"
+    ],
+    "TVC": [
+        "Thrust Vector Control"
+    ],
+    "TWR": [
+        "Thrust-to-Weight Ratio"
+    ],
+    "UF9": [
+        "Falcon 9 Full Thrust *or* Upgraded Falcon 9 *or* v1.2"
+    ],
+    "UHF": [
+        "Ultra-High Frequency radio"
+    ],
+    "ULA": [
+        "United Launch Alliance (Lockheed/Boeing joint venture)"
+    ],
+    "USOS": [
+        "United States Orbital Segment"
+    ],
+    "VAB": [
+        "Vehicle Assembly Building"
+    ],
+    "VAFB": [
+        "Vandenberg Air Force Base, California"
+    ],
+    "VBB": [
+        "Very Big Brother (Blue Origin's proposed VTVL vehicle, unknown payload to LEO)"
+    ],
+    "VFR": [
+        "[Visual Flight Rules](https://en.wikipedia.org/wiki/Visual_flight_rules)"
+    ],
+    "VHLV": [
+        "Super-Heavy Lift Launch Vehicle (over 50 tons to LEO)"
+    ],
+    "VIB": [
+        "Vertical Integration Facility"
+    ],
+    "VIF": [
+        "Vertical Integration Facility"
+    ],
+    "VTOL": [
+        "Vertical Take-Off and Landing"
+    ],
+    "VTS": [
+        "Vertical Test Stand"
+    ],
+    "VTVL": [
+        "Vertical Takeoff, Vertical Landing"
+    ],
+    "VV": [
+        "Visiting Vehicle (visitor to the Station)"
+    ],
+    "WDR": [
+        "Wet Dress Rehearsal"
+    ],
+    "WSO": [
+        "[Weapons Systems Officer](https://en.wikipedia.org/wiki/Weapon_systems_officer)"
+    ],
+    "ZBP": [
+        "Zero Pre-Breathe (spacesuit and habitat at same pressure"
+    ],
+    "ZPS": [
+        "Zero Prebreathe Spacesuit"
+    ],
+    "mT": [
+        "~~Milli-~~ *Metric* Tonnes"
+    ]
+}
