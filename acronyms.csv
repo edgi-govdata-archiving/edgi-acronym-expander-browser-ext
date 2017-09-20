@@ -1,13 +1,14 @@
 term,expansion,context,url
 4S,"Society for Social Study of science",,
+CC,"Climate Central",,
 CPF,"Capacity, Policy, Finance",,
 DDCF,"Doris Duke Charitable Foundation",,
 "Developer Central",,,https://developer.epa.gov/
 DR,"Data Refuge",,
 DR,"Data Rescue",,
 DT,"Data Together",,
-EDG,"Environmental Dataset Gateway",,http://edg.epa.gov/
 EDGI,"Environmental Data & Governance Initiative",,https://envirodatagov.org/
+EDG,"Environmental Dataset Gateway",,http://edg.epa.gov/
 EDJ,"environmental data justice",,
 EIP,"Environmental Integrity Project",,
 EJ,"environmental justice",,
@@ -23,6 +24,8 @@ NSCEP,"National Service Center for Environmental Publications",,http://epa.gov/n
 OAR,"EPA Office of Air and Radiation",,
 ODOH,"Our Data Our Hands",,
 OECA,"EPA Office of Enforcement and Compliance Assurance",,
+OG,"Open Graph",,
+PF,PageFreezer,,
 PR,"pull request",,
 SC,"Sierra Club",,
 SC,"steering committee",,
