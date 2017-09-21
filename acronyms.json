@@ -1,36 +1,15 @@
 {
-  "Developer Central": [
-    ""
+  "EIP": [
+    "Environmental Integrity Project"
   ],
-  "uncrawlable": [
-    ""
+  "WM": [
+    "Web Monitoring"
   ],
-  "zip starter": [
-    ""
-  ],
-  "subprimer": [
-    ""
-  ],
-  "Heritrix": [
-    ""
-  ],
-  "gateway": [
-    "Environmental Dataset Gateway"
-  ],
-  "azimuth": [
-    "Azimuth Climate Data Backup Project"
-  ],
-  "primer": [
-    ""
-  ],
-  "NSCEP": [
-    "National Service Center for Environmental Publications"
+  "CPF": [
+    "Capacity, Policy, Finance"
   ],
   "NOAA": [
     "National Oceanic and Atmospheric Administration"
-  ],
-  "ODOH": [
-    "Our Data Our Hands"
   ],
   "SURT": [
     "Sort-friendly URI Reordering Transform"
@@ -38,62 +17,54 @@
   "DDCF": [
     "Doris Duke Charitable Foundation"
   ],
-  "FOIA": [
-    "Freedom of Information Act"
-  ],
-  "term": [
-    "expansion"
-  ],
-  "GSoC": [
-    "Google Summer of Code"
-  ],
-  "seed": [
-    ""
-  ],
-  "OECA": [
-    "EPA Office of Enforcement and Compliance Assurance"
-  ],
-  "EDGI": [
-    "Environmental Data & Governance Initiative"
-  ],
-  "EIP": [
-    "Environmental Integrity Project"
-  ],
-  "STS": [
-    "science, technology, society"
-  ],
-  "CPF": [
-    "Capacity, Policy, Finance"
-  ],
   "OAR": [
     "EPA Office of Air and Radiation"
   ],
   "EOT": [
     "end of term"
   ],
-  "WTT": [
+  "DT": [
+    "Data Together"
+  ],
+  "primer": [
     ""
   ],
-  "UCS": [
-    "Union of concerned Scientists"
+  "DR": [
+    "Data Refuge",
+    "Data Rescue"
   ],
-  "EDG": [
+  "gateway": [
     "Environmental Dataset Gateway"
-  ],
-  "EDJ": [
-    "environmental data justice"
-  ],
-  "TRU": [
-    "Technoscience Research Unit"
-  ],
-  "GDD": [
-    "GeoDeepDive"
   ],
   "EPA": [
     "Environmental Protection Agency"
   ],
+  "PR": [
+    "pull request"
+  ],
+  "NSCEP": [
+    "National Service Center for Environmental Publications"
+  ],
+  "WTT": [
+    ""
+  ],
+  "Developer Central": [
+    ""
+  ],
+  "GSoC": [
+    "Google Summer of Code"
+  ],
   "PF": [
     "PageFreezer"
+  ],
+  "OECA": [
+    "EPA Office of Enforcement and Compliance Assurance"
+  ],
+  "zip starter": [
+    ""
+  ],
+  "uncrawlable": [
+    ""
   ],
   "EJ": [
     "environmental justice"
@@ -101,30 +72,62 @@
   "CC": [
     "Climate Central"
   ],
-  "WM": [
-    "Web Monitoring"
-  ],
   "4S": [
     "Society for Social Study of science"
+  ],
+  "ELOKA": [
+    "Exchange for Local Observations and Knowledge of the Arctic"
+  ],
+  "ODOH": [
+    "Our Data Our Hands"
+  ],
+  "STS": [
+    "science, technology, society"
   ],
   "IA": [
     "Internet Archive"
   ],
-  "DT": [
-    "Data Together"
+  "UCS": [
+    "Union of concerned Scientists"
   ],
-  "DR": [
-    "Data Refuge",
-    "Data Rescue"
+  "TRU": [
+    "Technoscience Research Unit"
   ],
-  "PR": [
-    "pull request"
+  "FOIA": [
+    "Freedom of Information Act"
+  ],
+  "term": [
+    "expansion"
+  ],
+  "EDG": [
+    "Environmental Dataset Gateway"
+  ],
+  "EDJ": [
+    "environmental data justice"
+  ],
+  "Heritrix": [
+    ""
   ],
   "OG": [
     "Open Graph"
   ],
+  "seed": [
+    ""
+  ],
+  "GDD": [
+    "GeoDeepDive"
+  ],
+  "subprimer": [
+    ""
+  ],
+  "azimuth": [
+    "Azimuth Climate Data Backup Project"
+  ],
   "SC": [
     "Sierra Club",
     "steering committee"
+  ],
+  "EDGI": [
+    "Environmental Data & Governance Initiative"
   ]
 }
