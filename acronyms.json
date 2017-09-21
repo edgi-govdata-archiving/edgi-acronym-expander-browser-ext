@@ -48,6 +48,9 @@
   "WTT": [
     ""
   ],
+  "OEJ": [
+    "Office of Environmental Justice"
+  ],
   "Developer Central": [
     ""
   ],
@@ -129,5 +132,9 @@
   ],
   "EDGI": [
     "Environmental Data & Governance Initiative"
+  ],
+  "OP": [
+    "Office of Policy",
+    "original post(er)"
   ]
 }
