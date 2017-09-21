@@ -11,6 +11,9 @@
   "NOAA": [
     "National Oceanic and Atmospheric Administration"
   ],
+  "USCA": [
+    "United States Climate Alliance"
+  ],
   "SURT": [
     "Sort-friendly URI Reordering Transform"
   ],
