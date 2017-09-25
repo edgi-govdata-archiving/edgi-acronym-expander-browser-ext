@@ -102,8 +102,8 @@
   "FOIA": [
     "Freedom of Information Act"
   ],
-  "term": [
-    "expansion"
+  "subprimer": [
+    ""
   ],
   "EDG": [
     "Environmental Dataset Gateway"
@@ -122,9 +122,6 @@
   ],
   "GDD": [
     "GeoDeepDive"
-  ],
-  "subprimer": [
-    ""
   ],
   "azimuth": [
     "Azimuth Climate Data Backup Project"

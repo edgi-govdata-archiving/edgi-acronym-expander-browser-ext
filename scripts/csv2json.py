@@ -6,6 +6,7 @@ jsonfile = open('acronyms.json', 'w')
 
 fieldnames = ("term","expansion")
 reader = csv.DictReader(csvfile, fieldnames)
+next(reader, None)
 data = {}
 for row in reader:
     term = row['term']
