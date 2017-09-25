@@ -22,7 +22,10 @@
   },
 	"content_scripts" : [
 		{
-		"matches" : ["*://edgi.slack.com/messages/*"],
+		"matches" : [
+      "*://edgi.slack.com/messages/*",
+      "*://archivers.slack.com/messages/*"
+    ],
 		"js" : ["jquery-2.2.0.min.js", "expander.js"]
 		}
 	],
