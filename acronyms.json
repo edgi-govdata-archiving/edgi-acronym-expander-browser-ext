@@ -1,9 +1,24 @@
 {
+  "WG": [
+    "working group"
+  ],
   "EIP": [
     "Environmental Integrity Project"
   ],
-  "WM": [
-    "Web Monitoring"
+  "ESIP": [
+    "Earth Science Information Partners "
+  ],
+  "AWS": [
+    "Amazon Web Services"
+  ],
+  "DD": [
+    "Doris Duke Charitable Foundation"
+  ],
+  "NSCEP": [
+    "National Service Center for Environmental Publications"
+  ],
+  "OG": [
+    "Open Graph"
   ],
   "CPF": [
     "Capacity, Policy, Finance"
@@ -13,6 +28,9 @@
   ],
   "USCA": [
     "United States Climate Alliance"
+  ],
+  "dinrg": [
+    "Decentralized Internet Infrastructure Research Group"
   ],
   "SURT": [
     "Sort-friendly URI Reordering Transform"
@@ -39,35 +57,23 @@
   "gateway": [
     "Environmental Dataset Gateway"
   ],
+  "WTT": [
+    ""
+  ],
   "EPA": [
     "Environmental Protection Agency"
   ],
   "PR": [
     "pull request"
   ],
-  "NSCEP": [
-    "National Service Center for Environmental Publications"
+  "ipfs": [
+    "InterPlanetary File System"
   ],
-  "WTT": [
-    ""
+  "ipwb": [
+    "InterPlanetary Wayback Machine"
   ],
-  "OEJ": [
-    "Office of Environmental Justice"
-  ],
-  "Developer Central": [
-    ""
-  ],
-  "GSoC": [
-    "Google Summer of Code"
-  ],
-  "PF": [
-    "PageFreezer"
-  ],
-  "OECA": [
-    "EPA Office of Enforcement and Compliance Assurance"
-  ],
-  "zip starter": [
-    ""
+  "IETF": [
+    "Internet Engineering Task Force"
   ],
   "uncrawlable": [
     ""
@@ -75,8 +81,47 @@
   "EJ": [
     "environmental justice"
   ],
+  "Developer Central": [
+    ""
+  ],
+  "GSoC": [
+    "Google Summer of Code"
+  ],
+  "DINRG": [
+    "Decentralized Internet Infrastructure Research Group"
+  ],
+  "CDXJ": [
+    "CDXJ file format"
+  ],
+  "PF": [
+    "PageFreezer"
+  ],
+  "seed": [
+    ""
+  ],
+  "OECA": [
+    "EPA Office of Enforcement and Compliance Assurance"
+  ],
+  "zip starter": [
+    ""
+  ],
+  "WM": [
+    "Web Monitoring"
+  ],
+  "NDN": [
+    "Named Data Networking"
+  ],
   "CC": [
     "Climate Central"
+  ],
+  "dd": [
+    "Doris Duke Charitable Foundation"
+  ],
+  "azimuth": [
+    "Azimuth Climate Data Backup Project"
+  ],
+  "aws": [
+    "Amazon Web Services"
   ],
   "4S": [
     "Society for Social Study of science"
@@ -87,17 +132,32 @@
   "ODOH": [
     "Our Data Our Hands"
   ],
+  "DCAT": [
+    "Data Catalog Vocabulary"
+  ],
   "STS": [
     "science, technology, society"
   ],
   "IA": [
     "Internet Archive"
   ],
+  "IPWB": [
+    "InterPlanetary Wayback Machine"
+  ],
+  "dt": [
+    "Data Together"
+  ],
   "UCS": [
     "Union of concerned Scientists"
   ],
   "TRU": [
     "Technoscience Research Unit"
+  ],
+  "WARC": [
+    "Web ARChive (WARC) file format"
+  ],
+  "Doris Duke": [
+    "Doris Duke Charitable Foundation"
   ],
   "FOIA": [
     "Freedom of Information Act"
@@ -111,33 +171,39 @@
   "EDJ": [
     "environmental data justice"
   ],
+  "ARL": [
+    "Association of Research Libraries"
+  ],
   "Heritrix": [
     ""
   ],
-  "OG": [
-    "Open Graph"
+  "IRTF": [
+    "Internet Research Task Force"
   ],
-  "seed": [
-    ""
+  "OEJ": [
+    "Office of Environmental Justice"
+  ],
+  "ARC": [
+    "Internet Archive's ARChive file format"
   ],
   "GDD": [
     "GeoDeepDive"
   ],
-  "azimuth": [
-    "Azimuth Climate Data Backup Project"
+  "IPFS": [
+    "InterPlanetary File System"
   ],
   "SC": [
     "Sierra Club",
     "steering committee"
   ],
-  "EDGI": [
-    "Environmental Data & Governance Initiative"
+  "OP": [
+    "Office of Policy",
+    "original post(er)"
   ],
   "CDX": [
     "Compound Index (CDX) file extension"
   ],
-  "OP": [
-    "Office of Policy",
-    "original post(er)"
+  "EDGI": [
+    "Environmental Data & Governance Initiative"
   ]
 }
