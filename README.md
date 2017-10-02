@@ -13,6 +13,17 @@ these groups:
   * **new contributors** who want to participate more freely, and
   * **existing contributors** visiting from other EDGI projects, for whom terms can seem foreign.
 
+## Modifying Acronyms
+
+The [JSON file `acronyms.json`](acronyms.json) is modified by editting a
+[Google Spreadsheet of
+terms](https://docs.google.com/spreadsheets/d/1o1AezDZ6TQyRBTpbDn9J4fFbgOPJEX7YOGYr8_0Hb4s/edit#gid=1602058310).
+
+The JSON is regenerated from this online spreadsheet by running this
+local command in terminal from the git repo root directory:
+
+    $ make csv2json
+
 ## Scope
 
 This extension currently works on these websites:

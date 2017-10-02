@@ -1,4 +1,7 @@
-csv2json: ## Generate acronyms.json from acronyms.csv
+download:
+	curl -s https://docs.google.com/spreadsheets/d/e/2PACX-1vQ7XtD1yzL1Y2UdXy3djbpIzN7gP5benUcGJWtVpgxZlIJUv3Uu-17et6goNMSe_iK-7ez8KqTilGwe/pub?output=csv > acronyms.csv
+
+csv2json: download ## Generate acronyms.json from acronyms.csv
 	python scripts/csv2json.py
 
 %:
