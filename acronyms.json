@@ -1,6 +1,6 @@
 {
-  "WG": [
-    "working group"
+  "CS": [
+    "computer science"
   ],
   "EIP": [
     "Environmental Integrity Project"
@@ -78,8 +78,8 @@
   "uncrawlable": [
     ""
   ],
-  "EJ": [
-    "environmental justice"
+  "NDN": [
+    "Named Data Networking"
   ],
   "Developer Central": [
     ""
@@ -108,8 +108,11 @@
   "WM": [
     "Web Monitoring"
   ],
-  "NDN": [
-    "Named Data Networking"
+  "PL": [
+    "Public Lab"
+  ],
+  "EJ": [
+    "environmental justice"
   ],
   "CC": [
     "Climate Central"
@@ -168,6 +171,9 @@
   "EDG": [
     "Environmental Dataset Gateway"
   ],
+  "WG": [
+    "working group"
+  ],
   "EDJ": [
     "environmental data justice"
   ],
@@ -202,6 +208,9 @@
   ],
   "CDX": [
     "Compound Index (CDX) file extension"
+  ],
+  "NCSA": [
+    "National Center for Supercomputing Applications"
   ],
   "EDGI": [
     "Environmental Data & Governance Initiative"
