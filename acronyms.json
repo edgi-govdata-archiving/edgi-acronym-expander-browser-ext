@@ -8,14 +8,17 @@
   "ESIP": [
     "Earth Science Information Partners "
   ],
+  "STS": [
+    "science, technology, society"
+  ],
   "AWS": [
     "Amazon Web Services"
   ],
   "DD": [
     "Doris Duke Charitable Foundation"
   ],
-  "NSCEP": [
-    "National Service Center for Environmental Publications"
+  "EOT": [
+    "end of term"
   ],
   "OG": [
     "Open Graph"
@@ -26,8 +29,8 @@
   "NOAA": [
     "National Oceanic and Atmospheric Administration"
   ],
-  "USCA": [
-    "United States Climate Alliance"
+  "EPN": [
+    "Environmental Professionals Network"
   ],
   "dinrg": [
     "Decentralized Internet Infrastructure Research Group"
@@ -41,8 +44,8 @@
   "OAR": [
     "EPA Office of Air and Radiation"
   ],
-  "EOT": [
-    "end of term"
+  "ESTS": [
+    "Engaging Science, Technology, and Society journal"
   ],
   "DT": [
     "Data Together"
@@ -66,7 +69,7 @@
   "PR": [
     "pull request"
   ],
-  "ipfs": [
+  "IPFS": [
     "InterPlanetary File System"
   ],
   "ipwb": [
@@ -83,6 +86,9 @@
   ],
   "Developer Central": [
     ""
+  ],
+  "NSCEP": [
+    "National Service Center for Environmental Publications"
   ],
   "GSoC": [
     "Google Summer of Code"
@@ -123,9 +129,6 @@
   "dd": [
     "Doris Duke Charitable Foundation"
   ],
-  "azimuth": [
-    "Azimuth Climate Data Backup Project"
-  ],
   "aws": [
     "Amazon Web Services"
   ],
@@ -141,8 +144,8 @@
   "DCAT": [
     "Data Catalog Vocabulary"
   ],
-  "STS": [
-    "science, technology, society"
+  "ipfs": [
+    "InterPlanetary File System"
   ],
   "IA": [
     "Internet Archive"
@@ -167,6 +170,9 @@
   ],
   "FOIA": [
     "Freedom of Information Act"
+  ],
+  "USCA": [
+    "United States Climate Alliance"
   ],
   "subprimer": [
     ""
@@ -198,8 +204,8 @@
   "GDD": [
     "GeoDeepDive"
   ],
-  "IPFS": [
-    "InterPlanetary File System"
+  "azimuth": [
+    "Azimuth Climate Data Backup Project"
   ],
   "SC": [
     "Sierra Club",
