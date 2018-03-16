@@ -5,6 +5,9 @@
   "EIP": [
     "Environmental Integrity Project"
   ],
+  "EIS": [
+    "Environmental impact statement"
+  ],
   "ESIP": [
     "Earth Science Information Partners "
   ],
@@ -50,6 +53,9 @@
   "ESTS": [
     "Engaging Science, Technology, and Society journal"
   ],
+  "NOAA": [
+    "National Oceanic and Atmospheric Administration"
+  ],
   "DT": [
     "Data Together"
   ],
@@ -75,7 +81,7 @@
   "IPFS": [
     "InterPlanetary File System"
   ],
-  "ipwb": [
+  "IPWB": [
     "InterPlanetary Wayback Machine"
   ],
   "UCS": [
@@ -117,8 +123,11 @@
   "zip starter": [
     ""
   ],
-  "WM": [
-    "Web Monitoring"
+  "GEO": [
+    "Geo: Geography and Environment journal"
+  ],
+  "dd": [
+    "Doris Duke Charitable Foundation"
   ],
   "PL": [
     "Public Lab"
@@ -132,8 +141,8 @@
   "CC": [
     "Climate Central"
   ],
-  "dd": [
-    "Doris Duke Charitable Foundation"
+  "CA": [
+    "Climate Alliance"
   ],
   "aws": [
     "Amazon Web Services"
@@ -156,14 +165,14 @@
   "IA": [
     "Internet Archive"
   ],
-  "IPWB": [
+  "ipwb": [
     "InterPlanetary Wayback Machine"
   ],
   "dt": [
     "Data Together"
   ],
-  "NOAA": [
-    "National Oceanic and Atmospheric Administration"
+  "ECHO": [
+    "Enforcement and Compliance History Online"
   ],
   "TRU": [
     "Technoscience Research Unit"
@@ -197,6 +206,9 @@
   ],
   "Heritrix": [
     ""
+  ],
+  "WM": [
+    "Web Monitoring"
   ],
   "IRTF": [
     "Internet Research Task Force"
