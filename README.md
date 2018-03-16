@@ -22,7 +22,7 @@ terms](https://docs.google.com/spreadsheets/d/1o1AezDZ6TQyRBTpbDn9J4fFbgOPJEX7YO
 The JSON is regenerated from this online spreadsheet by running this
 local command in terminal from the git repo root directory:
 
-    $ make csv2json
+    $ make pull-acronyms
 
 ## Scope
 

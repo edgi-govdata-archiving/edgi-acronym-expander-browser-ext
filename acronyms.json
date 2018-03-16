@@ -11,6 +11,9 @@
   "STS": [
     "science, technology, society"
   ],
+  "NASA": [
+    "National Aeronautics and Space Administration"
+  ],
   "AWS": [
     "Amazon Web Services"
   ],
@@ -26,8 +29,8 @@
   "CPF": [
     "Capacity, Policy, Finance"
   ],
-  "NOAA": [
-    "National Oceanic and Atmospheric Administration"
+  "DOE": [
+    "Department of Energy"
   ],
   "EPN": [
     "Environmental Professionals Network"
@@ -74,6 +77,9 @@
   ],
   "ipwb": [
     "InterPlanetary Wayback Machine"
+  ],
+  "UCS": [
+    "Union of concerned Scientists"
   ],
   "IETF": [
     "Internet Engineering Task Force"
@@ -156,8 +162,8 @@
   "dt": [
     "Data Together"
   ],
-  "UCS": [
-    "Union of concerned Scientists"
+  "NOAA": [
+    "National Oceanic and Atmospheric Administration"
   ],
   "TRU": [
     "Technoscience Research Unit"
