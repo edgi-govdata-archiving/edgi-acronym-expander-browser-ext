@@ -28,7 +28,7 @@ $.getJSON(chrome.extension.getURL("acronyms.json"), function(json) {
 			values[key] = expanded;
 		});
 
-	$('span.message_body').not('.deacronymized').each(function(i) {
+	$('span.message_body, div.comment_body, span.c-message__body').not('.deacronymized').each(function(i) {
 		var html = $(this).addClass('deacronymized').html();
 
 		$.each(values, function(key, value) {
