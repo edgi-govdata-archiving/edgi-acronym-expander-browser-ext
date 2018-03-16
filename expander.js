@@ -32,7 +32,7 @@ $.getJSON(chrome.extension.getURL("acronyms.json"), function(json) {
 		var html = $(this).addClass('deacronymized').html();
 
 		$.each(values, function(key, value) {
-			var keyRegexp = new RegExp('([/]|\\s)'+key+'($|\\s|[.!?/\\-;])');
+			var keyRegexp = new RegExp('([/(]|\\s)'+key+'($|\\s|[.!?/\\-;,)])');
 			html = html.replace(keyRegexp, "$1<span title='" + key + "'><i><b>" + value + "</b></i></span>$2");
 		});
 
