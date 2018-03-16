@@ -24,7 +24,11 @@
 		{
 		"matches" : [
       "*://edgi.slack.com/messages/*",
-      "*://archivers.slack.com/messages/*"
+      "*://archivers.slack.com/messages/*",
+      "*://github.com/edgi-govdata-archiving/*/issues/*",
+      "*://github.com/edgi-govdata-archiving/*/pulls/*",
+      "*://github.com/datatogether/*/issues/*",
+      "*://github.com/datatogether/*/pulls/*"
     ],
 		"js" : ["jquery-2.2.0.min.js", "background.js"]
 		}
