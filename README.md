@@ -3,6 +3,14 @@
 This tool attempts to expand acronyms commonly used in communications
 among members of the Environmental Data & Governance Initiative (EDGI).
 
+Works in:
+- Slack chat
+  - EDGI
+  - Archivers
+- GitHub issues
+  - Data Together organization
+  - EDGI organization
+
 ## Goal
 
 To make it simpler for those participating in EDGI project conversations
