@@ -1,6 +1,6 @@
 {
-  "CS": [
-    "computer science"
+  "WG": [
+    "working group"
   ],
   "EIP": [
     "Environmental Integrity Project"
@@ -13,6 +13,9 @@
   ],
   "STS": [
     "science, technology, society"
+  ],
+  "ERS": [
+    "Environmental Record Search"
   ],
   "NASA": [
     "National Aeronautics and Space Administration"
@@ -78,14 +81,20 @@
   "PR": [
     "pull request"
   ],
+  "IRIS": [
+    "Integrated Risk Information System database"
+  ],
   "IPFS": [
     "InterPlanetary File System"
   ],
   "IPWB": [
     "InterPlanetary Wayback Machine"
   ],
-  "UCS": [
-    "Union of concerned Scientists"
+  "OCAD": [
+    "Ontario College of Art & Design"
+  ],
+  "PWG": [
+    "Polar, Wind and Geotail"
   ],
   "IETF": [
     "Internet Engineering Task Force"
@@ -117,8 +126,14 @@
   "seed": [
     ""
   ],
+  "PODAAC": [
+    "Physical Oceanography Distributed Active Archive Center"
+  ],
   "OECA": [
     "EPA Office of Enforcement and Compliance Assurance"
+  ],
+  "UCS": [
+    "Union of concerned Scientists"
   ],
   "zip starter": [
     ""
@@ -131,6 +146,9 @@
   ],
   "PL": [
     "Public Lab"
+  ],
+  "IA": [
+    "Internet Archive"
   ],
   "MVV": [
     "mission, vision, and values"
@@ -162,8 +180,8 @@
   "ipfs": [
     "InterPlanetary File System"
   ],
-  "IA": [
-    "Internet Archive"
+  "CS": [
+    "computer science"
   ],
   "ipwb": [
     "InterPlanetary Wayback Machine"
@@ -172,7 +190,7 @@
     "Data Together"
   ],
   "ECHO": [
-    "Enforcement and Compliance History Online"
+    "Enforcement and Compliance History Online database"
   ],
   "TRU": [
     "Technoscience Research Unit"
@@ -194,9 +212,6 @@
   ],
   "EDG": [
     "Environmental Dataset Gateway"
-  ],
-  "WG": [
-    "working group"
   ],
   "EDJ": [
     "environmental data justice"
