@@ -23,6 +23,10 @@ these groups:
   * **new contributors** who want to participate more freely, and
   * **existing contributors** visiting from other EDGI projects, for whom terms can seem foreign.
 
+## Screenshot
+
+![screenshot of Slack conversion](docs/screenshot-slack.png)
+
 ## Modifying Acronyms
 
 The [JSON file `acronyms.json`](acronyms.json) is modified by editting a
